@@ -6,4 +6,4 @@ This is a demo for git and github class.
 Shreya Shinde.
 
 #Student 
-Delta Student
+Delta Student. 
