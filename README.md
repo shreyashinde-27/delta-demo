@@ -7,5 +7,8 @@ It is just for the convinence
 Shreya Shinde.
 Full Stack Developer.
 
-#Student 
+# Student 
 Delta Student. 
+
+# Teacher
+Shraddha Didi
